@@ -32,7 +32,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     
 # OTA ID
 PRODUCT_PROPERTY_OVERRIDES += \
-    otaupdater.otaid=liquidgrouper
+    otaupdater.otaid=legogrouper
 
 DEVICE_PACKAGE_OVERLAYS := \
     device/asus/grouper/overlay
